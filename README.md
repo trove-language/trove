@@ -1,2 +1,2 @@
-# trove
-trove language
+# kendama
+kendama c++
